@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 80 | 18 |
+| 81 | 18 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [*special](#special) (1)
 - [binary search](#binary-search) (2)
 - [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (15)
+- [brute force](#brute-force) (16)
 - [constructive algorithms](#constructive-algorithms) (7)
 - [games](#games) (3)
 - [geometry](#geometry) (1)
@@ -23,8 +23,8 @@
 - [greedy](#greedy) (20)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (37)
-- [math](#math) (33)
-- [number theory](#number-theory) (4)
+- [math](#math) (34)
+- [number theory](#number-theory) (5)
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (7)
@@ -62,6 +62,7 @@
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/klakshya007/codeforces-solutions/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
 | 271A | [Beautiful Year](https://codeforces.com/contest/271/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/klakshya007/codeforces-solutions/blob/HEAD/271/A%20-%20Beautiful%20Year/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/klakshya007/codeforces-solutions/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
+| 1789A | [Serval and Mocha's Array](https://codeforces.com/contest/1789/problem/A) | 800 | [Java 21](https://github.com/klakshya007/codeforces-solutions/blob/HEAD/1789/A%20-%20Serval%20and%20Mocha's%20Array/solution.java) |
 | 1805A | [We Need the Zero](https://codeforces.com/contest/1805/problem/A) | 800 | [Java 21](https://github.com/klakshya007/codeforces-solutions/blob/HEAD/1805/A%20-%20We%20Need%20the%20Zero/solution.java) |
 | 1853A | [Desorting](https://codeforces.com/contest/1853/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/klakshya007/codeforces-solutions/blob/HEAD/1853/A%20-%20Desorting/solution.cpp) |
 | 1881A | [Don't Try to Count](https://codeforces.com/contest/1881/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/klakshya007/codeforces-solutions/blob/HEAD/1881/A%20-%20Don't%20Try%20to%20Count/solution.cpp) |
@@ -189,6 +190,7 @@
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/klakshya007/codeforces-solutions/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/klakshya007/codeforces-solutions/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [Java 21](https://github.com/klakshya007/codeforces-solutions/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.java) |
+| 1789A | [Serval and Mocha's Array](https://codeforces.com/contest/1789/problem/A) | 800 | [Java 21](https://github.com/klakshya007/codeforces-solutions/blob/HEAD/1789/A%20-%20Serval%20and%20Mocha's%20Array/solution.java) |
 | 1806A | [Walking Master](https://codeforces.com/contest/1806/problem/A) | 800 | [Java 21](https://github.com/klakshya007/codeforces-solutions/blob/HEAD/1806/A%20-%20Walking%20Master/solution.java) |
 | 1814A | [Coins](https://codeforces.com/contest/1814/problem/A) | 800 | [Java 21](https://github.com/klakshya007/codeforces-solutions/blob/HEAD/1814/A%20-%20Coins/solution.java) |
 | 1834A | [Unit Array](https://codeforces.com/contest/1834/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/klakshya007/codeforces-solutions/blob/HEAD/1834/A%20-%20Unit%20Array/solution.cpp) |
@@ -219,6 +221,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1789A | [Serval and Mocha's Array](https://codeforces.com/contest/1789/problem/A) | 800 | [Java 21](https://github.com/klakshya007/codeforces-solutions/blob/HEAD/1789/A%20-%20Serval%20and%20Mocha's%20Array/solution.java) |
 | 1845A | [Forbidden Integer](https://codeforces.com/contest/1845/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/klakshya007/codeforces-solutions/blob/HEAD/1845/A%20-%20Forbidden%20Integer/solution.cpp) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/klakshya007/codeforces-solutions/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 | 2195A | [Sieve of Erato67henes](https://codeforces.com/contest/2195/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/klakshya007/codeforces-solutions/blob/HEAD/2195/A%20-%20Sieve%20of%20Erato67henes/solution.cpp) |
