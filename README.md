@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 82 | 18 |
+| 83 | 18 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [*special](#special) (1)
 - [binary search](#binary-search) (2)
 - [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (17)
+- [brute force](#brute-force) (18)
 - [constructive algorithms](#constructive-algorithms) (7)
 - [games](#games) (3)
 - [geometry](#geometry) (1)
@@ -58,6 +58,7 @@
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/klakshya007/codeforces-solutions/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
 | 80A | [Panoramix's Prediction](https://codeforces.com/contest/80/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/klakshya007/codeforces-solutions/blob/HEAD/80/A%20-%20Panoramix's%20Prediction/solution.cpp) |
+| 214A | [System of Equations](https://codeforces.com/contest/214/problem/A) | 800 | [Java 21](https://github.com/klakshya007/codeforces-solutions/blob/HEAD/214/A%20-%20System%20of%20Equations/solution.java) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/klakshya007/codeforces-solutions/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/klakshya007/codeforces-solutions/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
 | 271A | [Beautiful Year](https://codeforces.com/contest/271/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/klakshya007/codeforces-solutions/blob/HEAD/271/A%20-%20Beautiful%20Year/solution.cpp) |
